@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלאסו מייצרת מקלחונים פינתיים בהתאמה אישית מלאה, עם חומרי גלם מהמובחרים בעולם וייצור ישראלי מוסמך. הפכו את חדר האמבטיה לחוויה עיצובית. גלו עכשיו.
+
+### קולקציות מוצרים
+https://example.com/collections
+עיינו בקולקציות המקלחונים הבלעדיות של גלאסו — מקלחוני הזזה, מקלחונים פינתיים ועיצובים מותאמים אישית. כל מוצר נולד מדיוק, סגנון ואיכות ישראלית מוכחת.
+
+### איכות ושיתוף פעולה
+https://example.com/quality-collaboration
+גלאסו עובדת עם אדריכלים ומעצבי פנים מובילים ומחזיקה בתו התקן הישראלי. גלו כיצד שיתוף פעולה מקצועי ומקלחונים פינתיים מהמובחרים יוצרים את הבית שחלמתם עליו.
+
+### צור קשר
+https://example.com/contact
+רוצים מקלחון לפי מידה בתל אביב או בכל הארץ? צרו קשר עם מומחי גלאסו עוד היום וקבלו ייעוץ אישי, מדידה מקצועית והצעת מחיר מותאמת לחלל שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
